@@ -48,7 +48,7 @@ yum install hackrf-devel osmo-fl2k-devel SoapySDR-devel ffmpeg-devel
 apt-get update
 apt-get install libhackrf-dev libavutil-dev libavdevice-dev libswresample-dev libswscale-dev libavformat-dev libavcodec-dev
 
-* On Debian (sid)
+* On Debian (sid/testing) / Ubuntu 20.04+
 apt-get install hacktv
 
 
